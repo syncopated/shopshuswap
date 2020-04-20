@@ -60,11 +60,11 @@ collections:
     fields:
       - {label: "Business Name", name: "name", widget: "string"}
       - {label: "Category", name: "category", widget: "string" }
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, required: false}
       - {label: "Phone", name: "phone", widget: "string", required: false}
       - {label: "Email", name: "email", widget: "string", required: false}
       - {label: "URL", name: "url", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
   - label: "Globals"
     name: "globals"
     files:
