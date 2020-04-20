@@ -2,9 +2,13 @@
 name: A & W
 category: Restaurant
 type: Restaurant
-phone: 
-email: 
-url: 
+tags:
+  - a
+  - b
+  - c
+phone: null
+email: null
+url: null
 ---
 
 Drive-through
