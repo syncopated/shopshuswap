@@ -1,12 +1,10 @@
 ---
-layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
+layout: "layouts/home"
+title: Let's support our local businesses!
+postsHeading: Latest News
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'Shop Shuswap is a directory of local businesses in and around the Shuswap region of British Columbia, Canada.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Shop Shuswap is a directory of local businesses in [Salmon Arm](/area/salmon-arm/), the [South Shuswap](/area/south-shuswap/), [Falkland & area](/area/falkland/), the [North Shuswap](/area/north-shuswap), [Chase](/area/chase/),  [Armstrong & Spallumcheen](/area/armstrong-spallumcheen), [Malakwa](/area/malakwa/) and [Enderby](/area/enderby/).

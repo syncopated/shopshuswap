@@ -4,6 +4,10 @@
   color: var(--color-text);
   border-top: 1px solid var(--color-stroke);
 
+  &__site-name {
+    color: var(--color-theme-highlight-alt);
+  }
+
   a {
     color: currentColor;
 

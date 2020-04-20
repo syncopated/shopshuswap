@@ -4,7 +4,7 @@
       {% if site.shortDesc %}
         <div>
           <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
-            <h2 class="font-base text-600">{{ site.name }}</h2>
+            <h2 class="[ site-foot__site-name ] font-base text-600">{{ site.name }}</h2>
             {{ site.shortDesc | markdownFilter | safe }}
           </article>
         </div>
@@ -17,7 +17,10 @@
     </div>
     {% if site.showThemeCredit %}
       <p class="[ site-foot__credit ] [ pad-top-900 ]">
-        Powered by the <a href="https://hylia.website" rel="external">Hylia Eleventy Starter Kit v{{ pkg.version }}</a>.
+        Built with 💜 by <a href="https://www.saeds.ca/" rel="external"><abbr title="Salmon Economic Development Society">SAEDS</abbr></a>
+        &amp; <a href="https://twitter.com/syncopated/" title="{{ site.authorName }}">@syncopated</a>
+        ⚡️ powered by <a href="https://www.11ty.dev/" rel="external">Eleventy</a>
+        &amp; <a href="https://hylia.website" rel="external">Hylia v{{ pkg.version }}</a>.
       </p>
     {% endif %}
   </div>

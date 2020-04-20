@@ -13,6 +13,7 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 
 // Import data files
 const site = require('./src/_data/site.json');
+const area = require('./src/_data/area.json');
 
 module.exports = function(config) {
   // Filters
@@ -40,6 +41,7 @@ module.exports = function(config) {
 
   // Custom collections
   const livePosts = post => post.date <= now && !post.data.draft;
+  const liveShops = shop => !shop.data.draft;
   config.addCollection('posts', collection => {
     return [
       ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
@@ -50,6 +52,25 @@ module.exports = function(config) {
     return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
       .reverse()
       .slice(0, site.maxPostsPerPage);
+  });
+
+  area.regions.forEach(region => {
+    config.addCollection(`${region.dir}`, collection => {
+      return [
+        ...collection
+          .getFilteredByGlob(`./src/area/${region.dir}/*.md`)
+          .filter(liveShops)
+          .sort((a, b) => {
+            if (a.data.name.toLowerCase() > b.data.name.toLowerCase()) {
+              return 1;
+            }
+            if (a.data.name.toLowerCase() < b.data.name.toLowerCase()) {
+              return -1;
+            }
+            return 0;
+          })
+      ];
+    });
   });
 
   // Plugins
