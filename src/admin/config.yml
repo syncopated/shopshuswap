@@ -58,10 +58,13 @@ collections:
     preview_path: "area/salmon-arm/{{slug}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Business Name", name: "name", widget: "string"}
       - {label: "Category", name: "category", widget: "string", allow_add: true}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
-      - {label: "Body", name: "content", widget: "markdown"}
+      - {label: "Phone", name: "phone", widget: "string"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "URL", name: "url", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - label: "Globals"
     name: "globals"
     files:
