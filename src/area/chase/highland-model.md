@@ -1,10 +1,10 @@
 ---
 name: Highland Motel
 category: Accommodation
-type: undefined
+type:
 phone: 250-379-2249
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open

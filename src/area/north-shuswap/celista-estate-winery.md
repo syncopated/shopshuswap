@@ -1,10 +1,10 @@
 ---
 name: Celista Estate Winery
 category: Retail & Services
-type: undefined
+type:
 phone: 250 803 8140
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Delivery, Shipping & Pickup Avaliable

@@ -1,10 +1,10 @@
 ---
-name: Turtle Valley Bison Ranch 
+name: Turtle Valley Bison Ranch
 category: Grocery & Gas
-type: undefined
+type:
 phone: 587 888-2433
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Farm Gate Pick Up

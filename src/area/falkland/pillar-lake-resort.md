@@ -1,10 +1,10 @@
 ---
 name: Pillar Lake Resort
 category: Accomodation
-type: undefined
+type:
 phone: 250-379-2623
-email: 
-url: undefined
+email:
+url:
 ---
 
 Open

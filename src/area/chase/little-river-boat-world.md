@@ -1,10 +1,10 @@
 ---
 name: Little River Boat World
 category: Retail & Services
-type: undefined
+type:
 phone: 250-675-2321
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open, reduced hours

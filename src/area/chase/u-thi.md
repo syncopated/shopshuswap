@@ -1,10 +1,10 @@
 ---
 name: U-thi
 category: Restaurants
-type: undefined
+type:
 phone: 250-679-8822
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open daily for take-out

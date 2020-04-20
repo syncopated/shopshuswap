@@ -1,10 +1,10 @@
 ---
-name: Falkland Petro - Canada 
+name: Falkland Petro - Canada
 category: Grocery & Gas
-type: undefined
+type:
 phone: Ga
-email: 
-url: undefined
+email:
+url:
 ---
 
 Ope daily, 6:00am - 8:00pm

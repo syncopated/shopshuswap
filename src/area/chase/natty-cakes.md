@@ -1,10 +1,10 @@
 ---
 name: Natty Cakes
 category: Restaurants
-type: undefined
+type:
 phone: 778-257-9989
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open Tuesday to Sunday, 10am-3pm for take-out

@@ -1,10 +1,10 @@
 ---
 name: Solitude Bed & Breakfast
 category: Accommodation
-type: undefined
+type:
 phone: 587-436-7651
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open

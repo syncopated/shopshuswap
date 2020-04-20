@@ -1,9 +1,9 @@
 ---
 name: Mari's Gold Aromatherapy
 category: Retail & Services
-type: undefined
-phone: 
-email: undefined
+type:
+phone:
+email:
 url: https://marisgold.com/
 ---
 

@@ -1,10 +1,10 @@
 ---
 name: Angelmont Marina
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-955-2002
-email: undefined
-url: undefined
+email:
+url:
 ---
 
-Open Daily, 12-4pm 
+Open Daily, 12-4pm

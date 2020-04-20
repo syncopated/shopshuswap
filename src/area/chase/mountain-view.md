@@ -1,10 +1,10 @@
 ---
 name: Mountain View
 category: Restaurants
-type: undefined
+type:
 phone: 250-679-8921
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open for take-out

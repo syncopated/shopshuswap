@@ -1,10 +1,10 @@
 ---
 name: Inside Out
 category: Restaurants
-type: undefined
+type:
 phone: 250-819-7999
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open for take-out

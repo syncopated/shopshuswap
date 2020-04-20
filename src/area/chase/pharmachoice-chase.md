@@ -1,10 +1,10 @@
 ---
 name: Pharmachoice Chase
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-679-3553
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Oepn Daily 8am-6pm . Phone in orders avaliable

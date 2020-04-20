@@ -1,10 +1,10 @@
 ---
 name: Higland Motel
 category: Accomodation
-type: undefined
+type:
 phone: 250-379-2249
-email: 
-url: undefined
+email:
+url:
 ---
 
 Open

@@ -1,10 +1,10 @@
 ---
 name: Falkland Store
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-379-2242
-email: 
-url: undefined
+email:
+url:
 ---
 
 Open, reduced hours

@@ -1,10 +1,10 @@
 ---
 name: Malakwa Supermarket
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-836-4700
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open Daily 9am-7pm

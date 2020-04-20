@@ -1,10 +1,10 @@
 ---
 name: The Smoke & Grill Cafe
 category: Restaurants
-type: undefined
+type:
 phone: 250-379-2677
-email: 
-url: undefined
+email:
+url:
 ---
 
 Take-out 10am-7pm, Daily, call or email

@@ -1,10 +1,10 @@
 ---
 name: A & W
 category: Restaurants
-type: undefined
+type:
 phone:
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open daily for take-out

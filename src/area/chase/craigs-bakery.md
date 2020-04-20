@@ -1,10 +1,10 @@
 ---
 name: Craig's Bakery
 category: Restaurants
-type: undefined
+type:
 phone: 250-679-8338
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open Monday to Saturday, Varied hours for take-out

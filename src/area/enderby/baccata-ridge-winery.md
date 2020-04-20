@@ -1,10 +1,10 @@
 ---
 name: Baccata Ridge Winery
 category: Wineries
-type: undefined
-phone: 250-517-7051 
-email: undefined
-url: 
+type:
+phone: 250-517-7051
+email:
+url:
 ---
 
-Pick up avalibale, Call for local delivery 
+Pick up available, Call for local delivery

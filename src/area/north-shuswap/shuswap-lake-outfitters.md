@@ -1,10 +1,10 @@
 ---
 name: Shuswap Lake Outfitters
 category: Retail & Services
-type: undefined
+type:
 phone: 250-318-5948
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open

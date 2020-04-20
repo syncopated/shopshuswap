@@ -1,10 +1,10 @@
 ---
-name: Mal Mar General Store 
+name: Mal Mar General Store
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-836-2928
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open Daily 8:30am-5pm. business as usual. Uhaul is still operational.

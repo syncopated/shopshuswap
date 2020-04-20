@@ -1,10 +1,10 @@
 ---
 name: Scotch Creek Market
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-955-2253
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open Daily, 9am-6pm

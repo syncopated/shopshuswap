@@ -1,10 +1,10 @@
 ---
 name: Angelmont Inn
 category: Accommodation
-type: undefined
+type:
 phone: 250-955-0701
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open

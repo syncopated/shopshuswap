@@ -1,10 +1,10 @@
 ---
 name: Waterside Winery
 category: Wineries
-type: undefined
+type:
 phone: 250-838-9757
-email: undefined
-url: 
+email:
+url:
 ---
 
 Pick up or Mail

@@ -1,10 +1,10 @@
 ---
 name: Quaaout Lodge
 category: Restaurants
-type: undefined
+type:
 phone: 250-679-3090
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Frozen meal program, order online or over the phone

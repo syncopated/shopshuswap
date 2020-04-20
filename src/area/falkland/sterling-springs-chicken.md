@@ -1,10 +1,10 @@
 ---
 name: Sterling Springs Chicken
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250-309-2317
-email: 
-url: undefined
+email:
+url:
 ---
 
 Farm pick up Daily 11am-5pm. Call ahead to order

@@ -1,10 +1,10 @@
 ---
 name: Scotch Creek Esso
 category: Grocery & Gas
-type: undefined
+type:
 phone: 250355-0868
-email: undefined
-url: undefined
+email:
+url:
 ---
 
 Open Daily, 7am-7pm

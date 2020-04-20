@@ -1,11 +1,11 @@
 ---
 name: Ovino Winery
 category: Retail
-type: undefined
+type:
 phone: 250-832-8463
 
 email: info@ovinowinery.com
-url: undefined
+url:
 ---
 
 Preordered pick up, delivery and shipping.
