@@ -22,8 +22,9 @@ collections:
           - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts"}
           - {label: "Social Image", name: "socialImage", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-  - name: "generic_pages"
-    label: "Generic Pages"
+  - name: "interior_pages"
+    label: "Interior Pages"
+    label_singular: "Interior Page"
     folder: "src/pages"
     slug: "{{slug}}"
     preview_path: "pages/{{slug}}"
@@ -38,6 +39,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "posts"
     label: "Posts"
+    label_singular: "Post"
     folder: "src/posts"
     slug: "{{slug}}"
     preview_path: "posts/{{slug}}"
@@ -53,14 +55,16 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "shops"
     label: "Shops"
+    label_singular: "Shop"
     folder: "src/shops"
+    extension: "md"
     slug: "{{slug}}"
     preview_path: "shops/{{slug}}"
     create: true
     identifier_field: name
     fields:
-      - {label: "Business Name", name: "name", widget: "string"}
-      - {label: "Area", name: "area", widget: "string" }
+      - {label: "Shop Name", name: "name", widget: "string"}
+      - {label: "Area/Region", name: "area", widget: "string" }
       - {label: "Category", name: "category", widget: "string" }
       - {label: "Tags", name: "tags", widget: "list", allow_add: true, required: false}
       - {label: "Phone", name: "phone", widget: "string", required: false}
@@ -68,6 +72,10 @@ collections:
       - {label: "Email", name: "email", widget: "string", required: false}
       - {label: "URL", name: "url", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+    sortableFields:
+      - name
+      - area
+      - category
   - label: "Globals"
     name: "globals"
     files:
