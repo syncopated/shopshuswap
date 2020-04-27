@@ -4,25 +4,30 @@
       <!-- <h2 class="[ shop-list__heading ] [ text-700 md:text-800 ]">{{ shopListHeading }}</h2> -->
       <ol class="[ shop-list__items ] [ sf-flow ] [ pad-top-300 ]">
         {% for item in shopListItems %}
-          {% if item.date.getTime() <= global.now %}
-            <li class="shop-list__item">
-              <h3 class="font-base leading-tight text-600 weight-mid">
-                <a href="{{ item.url }}" class="shop-list__link" rel="bookmark">{{ item.data.name }}</a>
-                <p class="text-500 gap-top-300 weight-mid">{{ item.templateContent | markdownFilter | safe }}</p>
-                <p class="text-300 gap-top-300">
-                  {% if item.data.phone %}
-                  <a href="tel:{{ item.data.phone }}" class="shop-list__link">{{ item.data.phone }}</a>
-                  {% endif %}
-                  {% if item.data.email %}
-                  <a href="mailto:{{ item.data.email }}" class="shop-list__link">{{ item.data.email }}</a>
-                  {% endif %}
-                  {% if item.data.url %}
-                  <a href="{{ item.data.url }}" class="shop-list__link" target="_blank" rel="noopener">Web</a>
-                  {% endif %}
-                </p>
-              </h3>
-            </li>
-          {% endif %}
+          <li class="shop-list__item">
+            <h3 class="font-base leading-tight text-600 weight-mid">
+              <a href="{{ item.url }}" class="shop-list__link" rel="bookmark">{{ item.data.name }}</a>
+            </h3>
+            {% if item.data.phone %}
+            <p class="text-300 gap-top-100">
+              <a href="tel:{{ item.data.phone }}" class="shop-list__link">{{ item.data.phone }}</a>
+                {% if item.data.ext %}
+                <span>(Ext. {{ item.data.ext }})</span>
+                {% endif %}
+            {% endif %}
+            </p>
+            {% if item.data.email %}
+            <p class="text-300 gap-top-100">
+              <a href="mailto:{{ item.data.email }}" class="shop-list__link">{{ item.data.email }}</a>
+            </p>
+            {% endif %}
+            {% if item.data.url %}
+            <p class="text-300 gap-top-100">
+              <a href="{{ item.data.url }}" class="shop-list__link" target="_blank" rel="noopener">Web Site</a>
+            </p>
+            {% endif %}
+            <p class="text-500 gap-top-300 weight-mid">{{ item.templateContent | markdownFilter | safe }}</p>
+          </li>
         {% endfor %}
       </ol>
     </div>

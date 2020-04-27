@@ -7,4 +7,4 @@ metaDesc: 'Shop Shuswap is a directory of local businesses in and around the Shu
 socialImage: ''
 ---
 
-Shop Shuswap is a directory of local businesses in [Salmon Arm](/area/salmon-arm/), the [South Shuswap](/area/south-shuswap/), [Falkland & area](/area/falkland/), the [North Shuswap](/area/north-shuswap), [Chase](/area/chase/),  [Armstrong & Spallumcheen](/area/armstrong-spallumcheen), [Malakwa](/area/malakwa/) and [Enderby](/area/enderby/).
+Shop Shuswap is a directory of local businesses in [Salmon Arm](/salmon-arm/), the [South Shuswap](/south-shuswap/), [Falkland & area](/falkland/), the [North Shuswap](/north-shuswap), [Chase](/chase/),  [Armstrong & Spallumcheen](/armstrong-spallumcheen), [Malakwa](/malakwa/) and [Enderby](/enderby/).

@@ -13,7 +13,7 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 
 // Import data files
 const site = require('./src/_data/site.json');
-const area = require('./src/_data/area.json');
+const areas = require('./src/_data/areas.json');
 
 module.exports = function(config) {
   // Filters
@@ -54,23 +54,28 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
-  area.regions.forEach(region => {
-    config.addCollection(`${region.dir}`, collection => {
-      return [
-        ...collection
-          .getFilteredByGlob(`./src/area/${region.dir}/*.md`)
-          .filter(liveShops)
-          .sort((a, b) => {
-            if (a.data.name.toLowerCase() > b.data.name.toLowerCase()) {
-              return 1;
-            }
-            if (a.data.name.toLowerCase() < b.data.name.toLowerCase()) {
-              return -1;
-            }
-            return 0;
-          })
-      ];
+  Object.keys(areas).forEach(area => {
+    config.addCollection(area, collection => {
+      return collection
+        .getAll()
+        .filter(shop => {
+          return shop.data.area && shop.data.area === area;
+        })
+        .filter(liveShops)
+        .sort((a, b) =>
+          a.data.name.localeCompare(b.data.name, 'en', {sensitivity: 'base'})
+        );
     });
+  });
+
+  config.addCollection('shops', collection => {
+    return collection
+      .getFilteredByGlob(`./src/shops/*.md`)
+      .reverse()
+      .filter(liveShops)
+      .sort((a, b) =>
+        a.data.name.localeCompare(b.data.name, 'en', {sensitivity: 'base'})
+      );
   });
 
   // Plugins

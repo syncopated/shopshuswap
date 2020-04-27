@@ -1,0 +1,29 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = name %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    <article class="[ post ] [ h-entry ]">
+      {% include "partials/components/intro.njk" %}
+      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+        {{ content | safe }}
+        {% if phone %}
+        <p>< a href="tel:{{ phone }}">{{ phone }}</a></p>
+        {% if item.data.ext %}
+        <span>(Ext. {{ item.data.ext }})</span>
+        {% endif %}
+        {% endif %}
+        {% if email %}
+        <p><a href="mailto:{{ email }}">{{ email }}</a></p>
+        {% endif %}
+        {% if url %}
+        <p><a href="{{ url }}" rel="external">Web Site</a></p>
+        {% endif %}
+      </div>
+    </article>
+  </main>
+{% endblock %}
+
+{{ content | safe }}
