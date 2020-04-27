@@ -10,7 +10,7 @@
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
         {{ content | safe }}
         {% if phone %}
-        <p>< a href="tel:{{ phone }}">{{ phone }}</a></p>
+        <p><a href="tel:{{ phone }}">{{ phone }}</a></p>
         {% if item.data.ext %}
         <span>(Ext. {{ item.data.ext }})</span>
         {% endif %}
