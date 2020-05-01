@@ -1,12 +1,11 @@
 ---
 name: A & W
 area: salmon-arm
-category: Restaurant
+tags: null
+phone: null
+url: null
 type: Restaurant
-phone:
-email:
-url:
-tags:
+category: Restaurant
+email: null
 ---
-
-Drive-through
+Drive-through. Teen Burgers! 🍔
