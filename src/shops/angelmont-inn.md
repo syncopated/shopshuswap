@@ -1,12 +1,13 @@
 ---
 name: Angelmont Inn
 area: north-shuswap
-category: Accommodation
-type:
-phone: 250-955-0701
-email:
-url:
 tags:
+  - hotel
+phone: 250-955-0701
+url: null
+type: null
+category: Accommodation
+email: null
 ---
 
 Open
