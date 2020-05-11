@@ -1,11 +1,11 @@
 ---
-name: Gym Of Rock
+name: Gym of Rock
 area: salmon-arm
 category: Health & Wellness
 type: Fitness
-phone: 
-email: 
-url: www.gymofrock.com
+phone:
+email:
+url: https://www.gymofrock.com/
 tags:
 ---
 
