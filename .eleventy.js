@@ -56,15 +56,25 @@ module.exports = function(config) {
 
   Object.keys(areas).forEach(area => {
     config.addCollection(area, collection => {
-      return collection
+      let shops = [];
+      let unsorted = collection
         .getAll()
         .filter(shop => {
           return shop.data.area && shop.data.area === area;
         })
-        .filter(liveShops)
-        .sort((a, b) =>
-          a.data.name.localeCompare(b.data.name, 'en', {sensitivity: 'base'})
-        );
+        .filter(liveShops);
+      let categories = areas[area].categories || [];
+
+      categories.forEach(category => {
+        let groupedByCategory = unsorted
+          .filter(shop => shop.data.category === category)
+          .sort((a, b) =>
+            a.data.name.localeCompare(b.data.name, 'en', {sensitivity: 'base'})
+          );
+        shops = [...shops, ...groupedByCategory];
+      });
+
+      return shops;
     });
   });
 

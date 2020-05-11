@@ -1,26 +1,81 @@
 {
   "salmon-arm": {
-    "title": "Salmon Arm"
+    "title": "Salmon Arm",
+    "categories": [
+      "Community Services",
+      "Transportation",
+      "Grocery & Food Service",
+      "Restail & Services",
+      "Accommodation",
+      "Health & Wellness"
+    ]
   },
   "south-shuswap": {
-    "title": "South Shuswap (Area C)"
+    "title": "South Shuswap (Area C)",
+    "categories": [
+      "Accommodations",
+      "Advertising, Marketing & Media",
+      "Attractions / Places of Interest",
+      "Automotive",
+      "Building & Trades",
+      "Business Services & Banking",
+      "Grocery & Liquor Stores",
+      "Health & Wellness",
+      "Insurance",
+      "Marinas & Boat Service",
+      "Non Profit Organizations",
+      "Pet Care & Service",
+      "Realtors, Appraisers & Developers",
+      "Restaurants",
+      "Retail Stores",
+      "Wedding Services / Venues",
+      "Wineries & Breweries"
+    ]
   },
   "falkland": {
-    "title": "Falkland & Area (Area D)"
+    "title": "Falkland & Area (Area D)",
+    "categories": [
+      "Accommodations",
+      "Grocery & Gas",
+      "Restaurants",
+      "Retail"
+    ]
   },
   "malakwa": {
-    "title": "Malakwa (Area E)"
+    "title": "Malakwa (Area E)",
+    "categories": [
+      "Grocery & Gas",
+      "Restaurants"
+    ]
   },
   "north-shuswap": {
-    "title": "North Shuswap"
+    "title": "North Shuswap",
+    "categories": [
+      "Accommodation",
+      "Grocery & Gas",
+      "Landscaping & Gardening",
+      "Marine & Boat Services",
+      "Organizations & Societies",
+      "Retail & Services",
+      "Restaurants"
+    ]
   },
   "armstrong-spallumcheen": {
     "title": "Armstrong / Spallumcheen"
   },
   "enderby": {
-    "title": "Enderby"
+    "title": "Enderby",
+    "categories": [
+      "Open Businesses"
+    ]
   },
   "chase": {
-    "title": "Chase"
+    "title": "Chase",
+    "categories": [
+      "Accommodations",
+      "Grocery & Gas",
+      "Restaurants",
+      "Retail & Services"
+    ]
   }
 }
