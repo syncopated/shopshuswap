@@ -31,6 +31,8 @@
             </p>
             {% endif %}
             <p class="text-500 gap-top-300 weight-mid">{{ item.templateContent | markdownFilter | safe }}</p>
+            {% set shopTags = item.data.tags %}
+            {% include "partials/components/shop-tags.njk" %}
           </div>
         {% endfor %}
       </div>

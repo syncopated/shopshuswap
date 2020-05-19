@@ -1,0 +1,7 @@
+{% if shopTags.length %}
+<ul class="shop-tags">
+{% for tag in shopTags %}
+  <li class="shop-tags__tag bg-mid color-dark">{{ tag }}</li>
+{% endfor %}
+</ul>
+{% endif %}
