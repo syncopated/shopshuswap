@@ -1,11 +1,11 @@
 ---
-name: Sascu Credit Union   Sorrento Branch
+name: SASCU Credit Union (Sorrento Branch)
 area: south-shuswap
 category: Business Services & Banking
-type: 
+type:
 phone: 250-675-2361
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

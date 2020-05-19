@@ -1,11 +1,11 @@
 ---
-name: Subway (sorrento)
+name: Subway (Sorrento)
 area: south-shuswap
 category: Restaurants
-type: 
+type:
 phone: 250-229-1639
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

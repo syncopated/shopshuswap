@@ -1,11 +1,11 @@
 ---
-name: G-pops Diner & Sweet Shop
+name: G-Pops Diner & Sweet Shop
 area: salmon-arm
 category: Restaurant
 type: Restaurant
 phone: 250-833-5730
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

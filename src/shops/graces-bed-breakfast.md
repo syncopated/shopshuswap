@@ -1,5 +1,5 @@
 ---
-name: Graces Bed & Breakfast
+name: Grace's Bed & Breakfast
 area: south-shuswap
 category: Accommodation
 type:
