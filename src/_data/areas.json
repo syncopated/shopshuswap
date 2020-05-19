@@ -5,7 +5,8 @@
       "Community Services",
       "Transportation",
       "Grocery & Food Service",
-      "Restail & Services",
+      "Restaurant",
+      "Retail & Services",
       "Accommodation",
       "Health & Wellness"
     ]
@@ -13,7 +14,7 @@
   "south-shuswap": {
     "title": "South Shuswap (Area C)",
     "categories": [
-      "Accommodations",
+      "Accommodation",
       "Advertising, Marketing & Media",
       "Attractions / Places of Interest",
       "Automotive",
@@ -35,7 +36,7 @@
   "falkland": {
     "title": "Falkland & Area (Area D)",
     "categories": [
-      "Accommodations",
+      "Accommodation",
       "Grocery & Gas",
       "Restaurants",
       "Retail"
@@ -66,13 +67,14 @@
   "enderby": {
     "title": "Enderby",
     "categories": [
-      "Open Businesses"
+      "Retail & Services",
+      "Wineries"
     ]
   },
   "chase": {
     "title": "Chase",
     "categories": [
-      "Accommodations",
+      "Accommodation",
       "Grocery & Gas",
       "Restaurants",
       "Retail & Services"

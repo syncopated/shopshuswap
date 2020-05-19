@@ -1,7 +1,7 @@
 ---
 name: Highland Motel
 area: falkland
-category: Accomodation
+category: Accommodation
 type:
 phone: 250-379-2249
 email:

@@ -1,11 +1,11 @@
 ---
 name: Carmel Beach Private Lodges
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 1-877-778-5595
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

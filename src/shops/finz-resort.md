@@ -1,11 +1,11 @@
 ---
 name: Finz Resort
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 250-675-3222
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

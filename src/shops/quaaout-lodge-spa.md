@@ -1,11 +1,11 @@
 ---
 name: Quaaout Lodge & Spa
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 250-679-3090
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

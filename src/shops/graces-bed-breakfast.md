@@ -1,11 +1,11 @@
 ---
 name: Graces Bed & Breakfast
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 250-785-7075
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

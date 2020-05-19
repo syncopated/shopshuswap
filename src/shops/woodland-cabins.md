@@ -1,11 +1,11 @@
 ---
 name: Woodland Cabins
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 250-803-4670
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

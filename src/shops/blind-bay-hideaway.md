@@ -1,11 +1,11 @@
 ---
 name: Blind Bay Hideaway
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 250-253-5600
-email: 
-url: 
+email:
+url:
 tags:
 ---
 

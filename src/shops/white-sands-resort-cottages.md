@@ -1,11 +1,11 @@
 ---
 name: White Sands Resort Cottages
 area: south-shuswap
-category: Accomodation
-type: 
+category: Accommodation
+type:
 phone: 250-675-2332
-email: 
-url: 
+email:
+url:
 tags:
 ---
 
