@@ -9,6 +9,8 @@ tags:
   - COVID
   - Shuswap
 ---
+![](/images/title-for-econ-plan.jpg)
+
 Working together, we will get through this. That has been the message across the country as we all deal with the challenges brought on by the COVID-19 pandemic.
 
 Working together is also how the Shuswap region intends to move forward with its COVID-19 Emergency Economic Response Plan.
