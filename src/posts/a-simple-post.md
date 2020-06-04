@@ -1,7 +1,7 @@
 ---
-title: Are you a business that needs support?
+title: Are you a business that needs support? We got you!
 socialImage: /images/title-for-econ-plan.jpg
-date: 2019-06-18
+date: 2019-06-18T00:00:00.000Z
 tags:
   - business help
   - coronavirus
@@ -9,23 +9,16 @@ tags:
   - COVID
   - Shuswap
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+Working together, we will get through this. That has been the message across the country as we all deal with the challenges brought on by the COVID-19 pandemic.
 
-How about a `<blockquote>`?
+Working together is also how the Shuswap region intends to move forward with its COVID-19 Emergency Economic Response Plan.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+Shuswap Economic Development, Shuswap Tourism, Salmon Arm Economic Development Society, Community Futures Shuswap and the Tsuts'weye Women’s Entrepreneur and Innovation Network have come together to develop a Phase I response to the economic impacts currently facing Shuswap businesses and organizations. The plan is designed to respond directly to the needs expressed by the local business community and stakeholder organizations.
 
-A list of stuff:
+It will help mobilize resources and offer supports to assist businesses with their immediate needs as the COVID-19 situation continues to evolve. This builds upon existing collaborative efforts and will supplement and support the response work being done by economic development and community support organizations across the region.
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+An Emergency Support Hub has been set up as a one-stop place for businesses seeking support to make contact. From the Hub, businesses will be able to access services in six key areas: resource sharing & emergency support line, workforce support, community marketing, mentorship & training, digital transition and financing & emergency cash flow.
 
-How about an ordered list of stuff:
+Read [the full press release here](https://www.saeds.ca/wp-content/uploads/2020/04/FINAL-2020-April-Emerg-Response-Plan.pdf), or get started by seeking assistance and contacting the Emergency Support Hub by:
 
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+email: support@recovershuswap.ca or phone: 250-833-5928.
