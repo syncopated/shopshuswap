@@ -27,5 +27,3 @@ An Emergency Support Hub has been set up as a one-stop place for businesses seek
 Read [the full press release here](https://www.saeds.ca/wp-content/uploads/2020/04/FINAL-2020-April-Emerg-Response-Plan.pdf), or get started by seeking assistance and contacting the Emergency Support Hub by:
 
 email: support@recovershuswap.ca or phone: 250-833-5928.
-
-![]()
