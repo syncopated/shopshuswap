@@ -20,4 +20,4 @@ Shop Shuswap is a directory of local businesses in:
 * [Malakwa,Eagle Valley, and Swansea Point](/malakwa/)
 * [Enderby](/enderby/)
 
-As situations are changing rapidly, please check with individual Facebook pages, websites and/or call.
+As situations are changing, please check with individual Facebook pages, websites and/or call.
