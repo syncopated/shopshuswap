@@ -7,7 +7,7 @@ postsHeading: Latest News
 archiveButtonText: See all posts
 socialImage: ""
 ---
-This site was created and is being maintained in an effort to provide information regarding businesses that are open and providing service during these COVID-19 times.
+This site was created and is maintained in an effort to provide information regarding businesses that are open and providing service during COVID-19.
 
 Shop Shuswap is a directory of local businesses in:
 
