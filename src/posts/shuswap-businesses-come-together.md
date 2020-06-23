@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Shuswap Businesses Come Together!
+title: "Shuswap Economic Recovery: We Want To Help Your Business"
 socialImage: /images/title-for-econ-plan.jpg
 date: 2020-06-04T21:59:20.674Z
 tags:
