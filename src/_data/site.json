@@ -1,7 +1,7 @@
 {
   "showThemeCredit": true,
   "name": "#ShopShuswap",
-  "shortDesc": "Shop Shuswap is a directory of local businesses. Now more than ever they could use our support. Let's do our best to show 'em a little love. Need to update or add a listing? Find us at https://www.recovershuswap.ca/",
+  "shortDesc": "Shop Shuswap is a directory of local businesses. Now more than ever they could use our support. Let's do our best to show 'em a little love. Need to update or add a listing? Find us at [www.recovershuswap.ca](https://www.recovershuswap.ca/)",
   "url": "https://shopshuswap.ca",
   "authorEmail": "davidson.mj@gmail.com",
   "authorHandle": "@syncopated",
@@ -9,6 +9,6 @@
   "authorName": "Greg Davidson",
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "/images/favicon.png?v=2",
   "maxPostsPerPage": 5
 }
