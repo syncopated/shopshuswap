@@ -17,7 +17,7 @@ Shop Shuswap is a directory of local businesses in:
 * [North Shuswap](/north-shuswap)
 * [Chase](/chase/)
 * [Armstrong & Spallumcheen](/armstrong-spallumcheen)
-* [Malakwa,Eagle Valley, and Swansea Point](/malakwa/)
+* [Malakwa, Eagle Valley, & Swansea Point](/malakwa/)
 * [Enderby](/enderby/)
 
 As situations are changing, please check with individual Facebook pages, websites and/or call.
