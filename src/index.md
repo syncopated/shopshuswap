@@ -11,13 +11,13 @@ This site was created and is maintained in an effort to provide information rega
 
 Shop Shuswap is a directory of local businesses in:
 
-* [Salmon Arm](/salmon-arm/)
-* [South Shuswap](/south-shuswap/)
-* [Falkland & area](/falkland/)
-* [North Shuswap](/north-shuswap)
-* [Chase](/chase/)
+* [Salmon Arm](/regions/salmon-arm/)
+* [South Shuswap](/regions/south-shuswap/)
+* [Falkland & area](/regions/falkland/)
+* [North Shuswap](/regions/north-shuswap)
+* [Chase](/regions/chase/)
 * [Armstrong & Spallumcheen](/armstrong-spallumcheen)
-* [Malakwa, Eagle Valley, & Swansea Point](/malakwa/)
-* [Enderby](/enderby/)
+* [Malakwa, Eagle Valley, & Swansea Point](/regions/malakwa/)
+* [Enderby](/regions/enderby/)
 
 As situations are changing, please check with individual Facebook pages, websites and/or call.
