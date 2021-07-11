@@ -1,13 +1,14 @@
 ---
 name: A & W
 area: salmon-arm
-phone: null
-url: null
-type: Restaurant
 category: Restaurant
-email: null
 tags:
   - take out
   - food
+  - drive thru
+phone: null
+url: null
+type: Restaurant
+email: null
 ---
 Drive-through.
