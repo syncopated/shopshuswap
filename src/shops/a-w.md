@@ -2,13 +2,14 @@
 name: A&W
 area: chase
 category: Restaurants
-type:
-phone:
-email:
-url:
 tags:
   - take out
   - food
+  - drive thru
+phone: null
+url: null
+type: null
+email: null
 ---
 
 Open daily for take-out
